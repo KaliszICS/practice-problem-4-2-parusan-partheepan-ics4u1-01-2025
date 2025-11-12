@@ -7,8 +7,8 @@
 class Example {
 
 	//instance variables
-	int var1;
-	String var2;
+	private int var1;
+	private String var2;
 
 	/**
 	 * Explanation
